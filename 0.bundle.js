@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{"./src/components/sample/sample-split.js":function(n,s,o){"use strict";function p(n,s){return n+s}o.r(s),o.d(s,"add",(function(){return p}))}}]);
